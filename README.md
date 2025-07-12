@@ -33,7 +33,7 @@ I'm a Senior Frontend Engineer passionate about building high-quality, scalable 
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/mohitharge](https://www.linkedin.com/in/mohitharge)
-- **Website/Portfolio:** *https://mohitharge.vercel.app/*
+- **Website/Portfolio:** [mohitharge.vercel.app](https://mohitharge.vercel.app)
 - **Email:** *hargemohit@gmail.com*
 
 ---
